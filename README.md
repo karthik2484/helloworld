@@ -1,4 +1,5 @@
 # helloworld
 fresco tutorial
 
-print ("Hello World")
+print ("Hello World");
+print("Hellow universe")
